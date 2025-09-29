@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On<br>A Rooftop Farming Project<br><br>🌱 I’m Learning<br>3D Modelling for Virtual Reality (3DSMax)<br>IoT for the Rooftop Farming Project<br>HTML, CSS, JS for a potential use in the Rooftop Farming Project<br>Game Development Concepts for Personal Interest<br><br>👯‍♀️ I’m Open to Collaborate On<br>Game Development Projects<br>Web Development Projects<br><br>🤔 I’m Looking For Help With<br>A mentor that teaches me new topics and to drill me on discipline<br>Arknights ._. (Yeah....)<br>A upcoming project to make a 3D design of a simple VR game<br><br>🛠️ Languages<br>Blazor<br>HTML, CSS, JS<br>Python
+🔭 Currently Working On<br>A Game for a Company<br><br>🌱 I’m Learning<br>Nothing really<br><br><br>Game Development Concepts for Personal Interest<br><br>👯‍♀️ I’m Open to Collaborate On<br>Game Development Projects<br>Web Development Projects<br><br>🤔 I’m Looking For Help With<br>A mentor that teaches me new topics and to drill me on discipline<br>Arknights ._. (Yeah....)<br>A upcoming project to make a 3D design of a simple VR game<br><br>🛠️ Languages<br>Blazor<br>HTML, CSS, JS<br>Python
 
 
 ## 🌐 Socials:
